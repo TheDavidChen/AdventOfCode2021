@@ -4,4 +4,5 @@ My attempts at the [Advent of Code 2021](https://adventofcode.com/) using R and 
 
 ## Days
 
-Day 1 - :star: :star:
+Day 1 - :star: :star: - Base R  
+Day 2 - :star: :star: - Tidyverse
